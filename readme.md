@@ -22,4 +22,4 @@ CSS: Estilização visual da interface.
 
 JavaScript: Funcionalidade interativa, como adicionar, remover e marcar tarefas como concluídas.
 
-Vídeo referência do projeto: https://youtu.be/k0roUpojoSE?si=AtDJ9x1xQ-pFOUOo
+Referências: https://youtu.be/k0roUpojoSE?si=AtDJ9x1xQ-pFOUOo
